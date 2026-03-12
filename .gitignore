@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+dist/
+
+# Project-specific
+vector_store/
+backend/uploads/
+
+# IDE
+.vscode/
+.idea/
