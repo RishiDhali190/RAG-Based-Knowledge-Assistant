@@ -168,6 +168,4 @@ Toggle **"Compare RAG vs No-RAG"** in the top bar to see:
 
 ---
 
-## 📝 License
 
-MIT License — feel free to use this for learning and demonstration purposes.
